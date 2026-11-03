@@ -3913,6 +3913,166 @@
             "excluded": false
         },
         {
+            "id": "le_073b9e1dd0c7cd1ccb138b98",
+            "french": "Sujet : HOLLOW MOTHER\nOrigine : Ancien caveau familial\nNiveau de danger : UNSTABLE\n\nVestige a récupéré un cercueil lors du débarras d’une propriété abandonnée. Une consigne était gravée sur son couvercle : « Laissez-lui ce qui lui appartient. »\n\nLe cercueil ne contenant aucun corps, les employés ont récupéré les objets de valeur déposés à l’intérieur.\n\nLes premières manifestations ont commencé dans l’entrepôt la nuit suivante. Un gardien a découvert une silhouette drapée de noir, penchée au-dessus des objets récupérés. Lorsqu’il a braqué sa lampe sur elle, la silhouette s’est retournée et a poussé un hurlement.\n\nIl a tenté de fuir. Elle s’est précipitée sur lui et s’est dispersée à son contact, le laissant suffoquer au milieu d’un nuage verdâtre.\n\nDepuis, elle erre dans les bâtiments et s’attarde devant les portes, comme si elle cherchait encore quelque chose. Chaque tentative d’approche se termine de la même façon : un cri, une charge, puis une nouvelle apparition ailleurs. Les fumées laissées derrière elle restent toxiques.\n\nLes objets ont été replacés dans le cercueil. Aucun changement n’a été constaté.\n\nNote du personnel :\nRestez immobile, lampe éteinte, pendant son cri. Écartez-vous lorsqu’elle charge et quittez la fumée.\nLa direction rappelle qu’une inscription gravée sur un cercueil doit désormais être lue avant de le vider.",
+            "translation": "トピック：HOLLOW MOTHER\n起源：かつての家族の納骨堂\n危険度：UNSTABLE\n\nヴェスティッジ社は、廃屋となった物件の片付け中に棺を回収した。その蓋には、「彼に、彼のものであるものを残しておいてください」というメッセージが刻まれていた。\n\n棺には遺体がなかったため、従業員たちは中に置かれていた貴重品を回収した。\n\nその翌夜、倉庫で最初の異変が起こった。警備員が、回収された品々の上に身を乗り出している、黒衣に身を包んだ人影を発見した。彼が懐中電灯をその人影に向けた瞬間、人影は振り返り、悲鳴を上げた。\n\n彼は逃げようとした。彼女は彼に飛びかかり、彼に触れた瞬間に散り散りになり、彼を緑がかった雲の中に窒息させながら置き去りにした。\n\nそれ以来、彼女は建物の中をさまよい、まるでまだ何かを探しているかのようにドアの前で立ち止まっている。近づこうとするたびに、その結末はいつも同じだ。悲鳴、突進、そして別の場所で再び姿を現す。彼女が残した煙は、依然として有毒なままである。\n\nアイテムは棺の中に戻されました。変化は確認されませんでした。\n\nスタッフ注：\n彼女が叫んでいる間は、ライトを消してじっとしていてください。彼女が突進してきたら距離を置き、煙から離れてください。\n運営部より、棺に刻まれた文字は、棺の中身を空にする前に必ず読む必要があることが改めて通知されました。",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "073b9e1dd0c7cd1ccb138b987bbfef78579b0d246776ba848a200f2804cbe35f",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_a9bffae5331e07640fbcbe45",
+            "french": "Hollow Mother",
+            "translation": "ホロウ・マザー",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "a9bffae5331e07640fbcbe4506d024766e4a33a0b850ef36ee7514f11f46dd04",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_ae2a7e42952847b70c40e269",
+            "french": "PARTAGE XP ET PRIME : NON",
+            "translation": "経験値（XP）と報酬の共有：不可",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "ae2a7e42952847b70c40e26938fffddd4c116c0d30675846a9cd5750bd187225",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_c4898f0e560afb12257b6181",
+            "french": "PARTAGE XP ET PRIME : OUI",
+            "translation": "経験値（XP）と報奨金の共有：はい",
+            "context": "DepositSharingLobbyUIFR.partageOuiFR",
+            "status": "translated",
+            "sourceHash": "c4898f0e560afb12257b6181c5676c2d9e0dca2ec65aebffa3db47e8bf938a90",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_84074ed703f594cc741aabe4",
+            "french": "Sujet : PANPAN\nOrigine : Mascotte de parc de loisirs\nNiveau de danger : RAVAGER\n\nPanPan était la mascotte d’un petit parc de loisirs familial. Il animait les anniversaires, distribuait des bonbons et guidait les visiteurs jusqu’aux attractions. Sa popularité reposait principalement sur le fait qu’il ne faisait pas payer les photos.\n\nPour relancer la fréquentation, le propriétaire a ouvert un stand de tir sur le thème de la chasse. PanPan a reçu un vieux fusil, censé servir uniquement à la décoration.\n\nLe premier coup de feu a traversé trois lots en peluche, la cloison du stand et le pare-brise du propriétaire.\n\nPanPan a levé les bras pour réclamer des applaudissements.\n\nPersonne n’a applaudi. PanPan a baissé les bras, observé le public quelques secondes, puis rechargé son fusil.\n\nIl a ensuite ouvert le feu sur la foule. Les premiers témoins ont cru à des tirs à blanc. Cette hypothèse a été abandonnée lorsque la tête du vendeur de churros est tombée dans la friture en plusieurs morceaux.\n\nUn militaire en permission a tenté de le maîtriser. PanPan l’a assommé avec la crosse de son fusil, puis lui a pris son gilet tactique.\n\nIl a soigneusement ajusté les sangles avant de reprendre le fusil. Pendant ce temps, le propriétaire annonçait dans les haut-parleurs que l’animation était terminée.\n\nPanPan lui a tiré dessus.\n\nL’intervention de la police a révélé qu’aucune personne ne se trouvait dans le costume. Une déchirure traversait son torse de part en part : les agents pouvaient voir le stand derrière lui. PanPan a tenté de masquer le trou en remontant son nouveau gilet.\n\nIl a ensuite profité d’une interruption des tirs pour quitter le parc par l’entrée du personnel.\n\nDepuis, plusieurs témoins ont signalé sa présence dans des bâtiments abandonnés. Il porte toujours le gilet volé. Aucun ne souhaite retourner lui demander ce qu’il cherche.\n\nNote du personnel :\nLes trois peluches ont été déduites du salaire du responsable des animations.\nLe militaire réclame son gilet. Sa demande a été transmise au service des objets trouvés.",
+            "translation": "トピック：PANPAN\n出典：アミューズメントパークのマスコット\n危険度：RAVAGER\n\nパンパンは、家族向けの小さなレジャーパークのマスコットでした。彼は誕生日パーティーを盛り上げ、お菓子を配り、来場者をアトラクションへと案内していました。彼の人気が高かった主な理由は、写真撮影を無料にしていたことでした。\n\n客足を呼び戻すため、オーナーは狩猟をテーマにした射撃場を開設した。パンパンは、あくまで装飾用とされる古いライフルを1丁受け取った。\n\n最初の一発は、3つのぬいぐるみの山、射撃場の仕切り壁、そして所有者の車のフロントガラスを貫通した。\n\nパンパンは拍手を求めるように両手を上げた。\n\n誰も拍手しなかった。パンパンは両腕を下ろし、数秒間観客を見つめた後、ライフルに弾を装填し直した。\n\nその後、彼は群衆に向けて発砲した。最初の目撃者たちは、空砲だと思った。しかし、チュロスを売っていた店員の頭が、揚げ油の中にバラバラになって落ちたことで、その仮説は覆された。\n\n休暇中の軍人が彼を制圧しようとした。パンパンは銃の銃床でその軍人を気絶させ、その後、その軍人のタクティカルベストを奪った。\n\n彼はストラップを丁寧に調整してから、再びライフルを手に取った。その間、店主はスピーカーを通じて、イベントが終了したことを告げていた。\n\nパンパンは彼に向かって発砲した。\n\n警察が現場に駆けつけたところ、コスチュームの中には誰もいないことが判明した。胸元には縦に裂け目が走り、警官たちはその背後にあったブースを目撃した。パンパンは新しいベストを上に引き上げて、その裂け目を隠そうとした。\n\nその後、彼は銃撃が一時的に止んだ隙に、職員用入口から公園を抜け出した。\n\nそれ以来、廃墟となった建物内で彼の姿が目撃されたという報告が複数寄せられている。彼は依然として、あの盗まれたベストを身につけている。彼が何を探しているのか尋ねに戻ろうとする者は、誰一人としていない。\n\nスタッフ注：\n3体のぬいぐるみは、アニメーション担当者の給与から差し引かれた。\n軍人は自分のベストを返してほしいと要求しています。その要望は遺失物係に伝えられました。",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "84074ed703f594cc741aabe47a6d1004e01508676683cedb7172ac878e3e6479",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_c38df3295d3026baa20da266",
+            "french": "PanPan",
+            "translation": "PanPan",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "c38df3295d3026baa20da266ef6835d73961d376fff017ba2fc727635ca37c73",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_8266f332bd1ee437321053b1",
+            "french": "Sujet : GOBBLE & GULP\nOrigine : Borne d’arcade / Fabricant inconnu\nNiveau de danger : DEVOURER\n\nGobble & Gulp étaient les deux personnages d’une borne d’arcade retrouvée dans la réserve d’une salle de jeux fermée depuis plusieurs années. Le principe était simple : parcourir un labyrinthe et manger tout ce qui se trouvait à l’écran. Aucun bouton ne permettait de les arrêter. Le propriétaire avait collé une étiquette « C’EST NORMAL » à côté du monnayeur.\n\nLors des premières parties de test, les deux personnages se déplaçaient lentement. Ils accéléraient ensuite jusqu’à rendre le jeu pratiquement impossible. Plusieurs personnes ont remarqué que leurs dents devenaient de plus en plus détaillées à chaque niveau.\n\nUn technicien a ouvert la borne pour examiner la carte électronique. Celle-ci a explosé, libérant les deux créatures dans la pièce. Le technicien n’a pas survécu. La dernière inscription visible sur l’écran était « MERCI D’AVOIR JOUÉ ».\n\nDepuis leur sortie de la borne, ils continuent de parcourir les lieux sans s’arrêter. Leur vitesse augmente à mesure qu’ils restent actifs. Ils semblent toujours respecter les murs, ce qui constitue actuellement le seul élément rassurant du dossier.\n\nNote du personnel :\nLe portefeuille du technicien a survécu à l’explosion.\nSon contenu a servi à rembourser la borne.",
+            "translation": "トピック：GOBBLE & GULP\n出典：アーケード筐体／メーカー不明\n危険度：DEVOURER\n\n「Gobble & Gulp」は、数年前から閉鎖されていたゲームセンターの倉庫で発見されたアーケードゲームの2人のキャラクターでした。ゲームの仕組みは単純で、迷路を進みながら画面上に表示されるものをすべて食べ尽くすというものでした。 彼らを止めるためのボタンは一切ありませんでした。オーナーはコイン投入口の横に「これは正常です」というラベルを貼っていました。\n\n初期のテストプレイでは、2人のキャラクターの動きは遅かった。その後、速度が上がり続け、最終的にはゲームをプレイすることがほぼ不可能になるほどだった。また、レベルが上がるごとにキャラクターの歯のディテールが徐々に細かくなっていくことに気づいた人もいた。\n\n技術者が端末を開けて電子基板を点検したところ、基板が爆発し、2体のクリーチャーが部屋の中に解き放たれた。技術者は命を落とした。画面に最後に表示されていた文字は「プレイしていただきありがとうございました」だった。\n\nターミナルから出現して以来、彼らは止まることなくその場所を動き回っている。活動時間が長くなるにつれて、その速度は増していく。彼らは常に壁を避けているようであり、それが現時点でこの事件に関する唯一の安心材料となっている。\n\nスタッフ注：\n技術者の財布は爆発を免れた。\nその内容は、端末の代金を返済するために使用されました。",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "8266f332bd1ee437321053b1676b77f9f162399acec50162c6f280ab8445c6d6",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_a9692dedb13c7c5eac439259",
+            "french": "Gobble & Gulp",
+            "translation": "Gobble & Gulp",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "a9692dedb13c7c5eac439259d836dbbab97fecb2b9bb59afeaed9dab97e37c3b",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_d7b65368cc6e5756bd3de201",
+            "french": "Blackridge Factory",
+            "translation": "ブラックリッジ・ファクトリー",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "d7b65368cc6e5756bd3de20116749dbc7f67dd8228b4bb927d99c9fc5db126ba",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_87461d1e3524cee556122c5a",
+            "french": "Retour au bestiaire",
+            "translation": "モンスター図鑑に戻る",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "87461d1e3524cee556122c5a5bf49ef194213b9ed58f064aa0368a94f533802e",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_09596786d061d6e0bda96be5",
+            "french": "Gobbler",
+            "translation": "ゴブラー",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "09596786d061d6e0bda96be5e53b94b8cbddaa0f75712fc1414dd0309d6ea894",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_bbdbcbf7345b17b3dc3b9e52",
+            "french": "ADMINISTRATION",
+            "translation": "管理",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "bbdbcbf7345b17b3dc3b9e52481c8fcf21f209410aa42ab1005a7d1c05d60dce",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_72fd82bb4a1e50303c189ef6",
+            "french": "Aléatoire",
+            "translation": "ランダム",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "72fd82bb4a1e50303c189ef6d78b0750ddddd5b9e05ac465174e4dabee12c65c",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_8bab46325212a1f8e1952169",
+            "french": "Choisir la map",
+            "translation": "マップを選択する",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "8bab46325212a1f8e195216995580b30ef9d4a71b8e681deda0d7958a860c05c",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_54aa769831d758aa9efacc82",
+            "french": "Choisir le slasher",
+            "translation": "スラッシャーを選ぶ",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "54aa769831d758aa9efacc8279e5943a5ce0cf49792c590c9d498732e88c54c6",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_f7ed4a28e144a93c4df668ff",
+            "french": "PARAMÈTRES DE LA PROCHAINE MANCHE",
+            "translation": "次のラウンドの設定",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "f7ed4a28e144a93c4df668ffce9595357db40e953ba889fabbfa5d69c93ebc94",
+            "archived": false,
+            "excluded": false
+        },
+        {
             "id": "le_44b19fcb63d88ee6d437ece0",
             "french": "Kit de soin",
             "translation": "メディカルセット",

@@ -3913,6 +3913,166 @@
             "excluded": false
         },
         {
+            "id": "le_073b9e1dd0c7cd1ccb138b98",
+            "french": "Sujet : HOLLOW MOTHER\nOrigine : Ancien caveau familial\nNiveau de danger : UNSTABLE\n\nVestige a récupéré un cercueil lors du débarras d’une propriété abandonnée. Une consigne était gravée sur son couvercle : « Laissez-lui ce qui lui appartient. »\n\nLe cercueil ne contenant aucun corps, les employés ont récupéré les objets de valeur déposés à l’intérieur.\n\nLes premières manifestations ont commencé dans l’entrepôt la nuit suivante. Un gardien a découvert une silhouette drapée de noir, penchée au-dessus des objets récupérés. Lorsqu’il a braqué sa lampe sur elle, la silhouette s’est retournée et a poussé un hurlement.\n\nIl a tenté de fuir. Elle s’est précipitée sur lui et s’est dispersée à son contact, le laissant suffoquer au milieu d’un nuage verdâtre.\n\nDepuis, elle erre dans les bâtiments et s’attarde devant les portes, comme si elle cherchait encore quelque chose. Chaque tentative d’approche se termine de la même façon : un cri, une charge, puis une nouvelle apparition ailleurs. Les fumées laissées derrière elle restent toxiques.\n\nLes objets ont été replacés dans le cercueil. Aucun changement n’a été constaté.\n\nNote du personnel :\nRestez immobile, lampe éteinte, pendant son cri. Écartez-vous lorsqu’elle charge et quittez la fumée.\nLa direction rappelle qu’une inscription gravée sur un cercueil doit désormais être lue avant de le vider.",
+            "translation": "Subject: HOLLOW MOTHER\nOrigin: Former family vault\nDanger level: UNSTABLE\n\nVestige recovered a coffin whilst clearing out an abandoned property. An instruction was engraved on its lid: ‘Leave him what belongs to him.’\n\nAs the coffin contained no body, the employees retrieved the valuables that had been placed inside it.\n\nThe first strange occurrences began in the warehouse the following night. A security guard spotted a figure draped in black, leaning over the salvaged items. When he shone his torch on it, the figure turned round and let out a blood-curdling scream.\n\nHe tried to flee. She rushed towards him and dissipated on contact, leaving him gasping for breath amidst a greenish cloud.\n\nEver since, she has been wandering through the buildings and lingering in front of doors, as if she were still searching for something. Every attempt to approach her ends in the same way: a scream, a charge, then a new apparition elsewhere. The fumes she leaves behind remain toxic.\n\nThe items have been returned to the coffin. No changes have been detected.\n\nStaff note:\nStay still, with your torch off, whilst she screams. Move out of the way when she charges and get out of the smoke.\nManagement would like to remind you that an inscription engraved on a coffin must now be read before emptying it.",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "073b9e1dd0c7cd1ccb138b987bbfef78579b0d246776ba848a200f2804cbe35f",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_a9bffae5331e07640fbcbe45",
+            "french": "Hollow Mother",
+            "translation": "Hollow Mother",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "a9bffae5331e07640fbcbe4506d024766e4a33a0b850ef36ee7514f11f46dd04",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_ae2a7e42952847b70c40e269",
+            "french": "PARTAGE XP ET PRIME : NON",
+            "translation": "SHARE DEPOSIT XP AND BONUS: NO",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "ae2a7e42952847b70c40e26938fffddd4c116c0d30675846a9cd5750bd187225",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_c4898f0e560afb12257b6181",
+            "french": "PARTAGE XP ET PRIME : OUI",
+            "translation": "SHARE DEPOSIT XP AND BONUS: YES",
+            "context": "DepositSharingLobbyUIFR.partageOuiFR",
+            "status": "translated",
+            "sourceHash": "c4898f0e560afb12257b6181c5676c2d9e0dca2ec65aebffa3db47e8bf938a90",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_84074ed703f594cc741aabe4",
+            "french": "Sujet : PANPAN\nOrigine : Mascotte de parc de loisirs\nNiveau de danger : RAVAGER\n\nPanPan était la mascotte d’un petit parc de loisirs familial. Il animait les anniversaires, distribuait des bonbons et guidait les visiteurs jusqu’aux attractions. Sa popularité reposait principalement sur le fait qu’il ne faisait pas payer les photos.\n\nPour relancer la fréquentation, le propriétaire a ouvert un stand de tir sur le thème de la chasse. PanPan a reçu un vieux fusil, censé servir uniquement à la décoration.\n\nLe premier coup de feu a traversé trois lots en peluche, la cloison du stand et le pare-brise du propriétaire.\n\nPanPan a levé les bras pour réclamer des applaudissements.\n\nPersonne n’a applaudi. PanPan a baissé les bras, observé le public quelques secondes, puis rechargé son fusil.\n\nIl a ensuite ouvert le feu sur la foule. Les premiers témoins ont cru à des tirs à blanc. Cette hypothèse a été abandonnée lorsque la tête du vendeur de churros est tombée dans la friture en plusieurs morceaux.\n\nUn militaire en permission a tenté de le maîtriser. PanPan l’a assommé avec la crosse de son fusil, puis lui a pris son gilet tactique.\n\nIl a soigneusement ajusté les sangles avant de reprendre le fusil. Pendant ce temps, le propriétaire annonçait dans les haut-parleurs que l’animation était terminée.\n\nPanPan lui a tiré dessus.\n\nL’intervention de la police a révélé qu’aucune personne ne se trouvait dans le costume. Une déchirure traversait son torse de part en part : les agents pouvaient voir le stand derrière lui. PanPan a tenté de masquer le trou en remontant son nouveau gilet.\n\nIl a ensuite profité d’une interruption des tirs pour quitter le parc par l’entrée du personnel.\n\nDepuis, plusieurs témoins ont signalé sa présence dans des bâtiments abandonnés. Il porte toujours le gilet volé. Aucun ne souhaite retourner lui demander ce qu’il cherche.\n\nNote du personnel :\nLes trois peluches ont été déduites du salaire du responsable des animations.\nLe militaire réclame son gilet. Sa demande a été transmise au service des objets trouvés.",
+            "translation": "Subject: PANPAN\nOrigin: Amusement park mascot\nDanger level: DEVASTATE\n\nPanPan was the mascot of a small family-friendly amusement park. He hosted birthday parties, handed out sweets and guided visitors to the attractions. His popularity stemmed mainly from the fact that he didn’t charge for photos.\n\nTo boost visitor numbers, the owner has opened a hunting-themed shooting gallery. PanPan has been given an old rifle, intended solely for decorative purposes.\n\nThe first shot went through three piles of soft toys, the booth partition and the owner’s windscreen.\n\nPanPan raised his arms to ask for a round of applause.\n\nNo one applauded. PanPan dropped his arms, looked out at the audience for a few seconds, then reloaded his rifle.\n\nHe then opened fire on the crowd. Initial witnesses thought the shots were blanks. This theory was discarded when the churros seller’s head fell into the deep-fat fryer in several pieces.\n\nA soldier on leave tried to subdue him. PanPan knocked him out with the butt of his rifle, then took his tactical vest.\n\nHe carefully adjusted the straps before picking up the rifle again. Meanwhile, the owner announced over the loudspeakers that the event had come to an end.\n\nPanPan shot him.\n\nThe police intervention revealed that there was no one inside the costume. A tear ran right through his torso: the officers could see the stall behind him. PanPan tried to hide the hole by pulling up his new waistcoat.\n\nHe then took advantage of a lull in the firing to leave the park via the staff entrance.\n\nSince then, several witnesses have reported seeing him in abandoned buildings. He is still wearing the stolen waistcoat. None of them wish to go back and ask him what he is looking for.\n\nStaff note:\nThe three soft toys were deducted from the animations manager’s salary.\nThe soldier is asking for his waistcoat. His request has been forwarded to the lost property office.",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "84074ed703f594cc741aabe47a6d1004e01508676683cedb7172ac878e3e6479",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_c38df3295d3026baa20da266",
+            "french": "PanPan",
+            "translation": "PanPan",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "c38df3295d3026baa20da266ef6835d73961d376fff017ba2fc727635ca37c73",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_8266f332bd1ee437321053b1",
+            "french": "Sujet : GOBBLE & GULP\nOrigine : Borne d’arcade / Fabricant inconnu\nNiveau de danger : DEVOURER\n\nGobble & Gulp étaient les deux personnages d’une borne d’arcade retrouvée dans la réserve d’une salle de jeux fermée depuis plusieurs années. Le principe était simple : parcourir un labyrinthe et manger tout ce qui se trouvait à l’écran. Aucun bouton ne permettait de les arrêter. Le propriétaire avait collé une étiquette « C’EST NORMAL » à côté du monnayeur.\n\nLors des premières parties de test, les deux personnages se déplaçaient lentement. Ils accéléraient ensuite jusqu’à rendre le jeu pratiquement impossible. Plusieurs personnes ont remarqué que leurs dents devenaient de plus en plus détaillées à chaque niveau.\n\nUn technicien a ouvert la borne pour examiner la carte électronique. Celle-ci a explosé, libérant les deux créatures dans la pièce. Le technicien n’a pas survécu. La dernière inscription visible sur l’écran était « MERCI D’AVOIR JOUÉ ».\n\nDepuis leur sortie de la borne, ils continuent de parcourir les lieux sans s’arrêter. Leur vitesse augmente à mesure qu’ils restent actifs. Ils semblent toujours respecter les murs, ce qui constitue actuellement le seul élément rassurant du dossier.\n\nNote du personnel :\nLe portefeuille du technicien a survécu à l’explosion.\nSon contenu a servi à rembourser la borne.",
+            "translation": "Subject: GOBBLE & GULP\nOrigin: Arcade machine / Manufacturer unknown\nDanger level: DEVOURER\n\nGobble & Gulp were the two characters from an arcade machine found in the storeroom of a games centre that had been closed for several years. The concept was simple: navigate a maze and eat everything on the screen. There was no button to stop them. The owner had stuck a label reading ‘THIS IS NORMAL’ next to the coin slot.\n\nDuring the initial test runs, both characters moved slowly. They then accelerated to the point where the game became virtually impossible to play. Several people noticed that their teeth became increasingly detailed with each level.\n\nA technician opened the terminal to examine the circuit board. It exploded, releasing the two creatures into the room. The technician did not survive. The last message visible on the screen was ‘THANK YOU FOR PLAYING’.\n\nSince emerging from the terminal, they have continued to roam the premises without stopping. Their speed increases the longer they remain active. They always seem to avoid the walls, which is currently the only reassuring aspect of the case.\n\nStaff note:\nThe technician’s wallet survived the explosion.\nIts contents were used to pay off the arcade machine.",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "8266f332bd1ee437321053b1676b77f9f162399acec50162c6f280ab8445c6d6",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_a9692dedb13c7c5eac439259",
+            "french": "Gobble & Gulp",
+            "translation": "Gobble & Gulp",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "a9692dedb13c7c5eac439259d836dbbab97fecb2b9bb59afeaed9dab97e37c3b",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_d7b65368cc6e5756bd3de201",
+            "french": "Blackridge Factory",
+            "translation": "Blackridge Factory",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "d7b65368cc6e5756bd3de20116749dbc7f67dd8228b4bb927d99c9fc5db126ba",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_87461d1e3524cee556122c5a",
+            "french": "Retour au bestiaire",
+            "translation": "Back to the bestiary",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "87461d1e3524cee556122c5a5bf49ef194213b9ed58f064aa0368a94f533802e",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_09596786d061d6e0bda96be5",
+            "french": "Gobbler",
+            "translation": "Gobbler",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "09596786d061d6e0bda96be5e53b94b8cbddaa0f75712fc1414dd0309d6ea894",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_bbdbcbf7345b17b3dc3b9e52",
+            "french": "ADMINISTRATION",
+            "translation": "ADMINISTRATION",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "bbdbcbf7345b17b3dc3b9e52481c8fcf21f209410aa42ab1005a7d1c05d60dce",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_72fd82bb4a1e50303c189ef6",
+            "french": "Aléatoire",
+            "translation": "Random",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "72fd82bb4a1e50303c189ef6d78b0750ddddd5b9e05ac465174e4dabee12c65c",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_8bab46325212a1f8e1952169",
+            "french": "Choisir la map",
+            "translation": "Select the map",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "8bab46325212a1f8e195216995580b30ef9d4a71b8e681deda0d7958a860c05c",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_54aa769831d758aa9efacc82",
+            "french": "Choisir le slasher",
+            "translation": "Choose the slasher",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "54aa769831d758aa9efacc8279e5943a5ce0cf49792c590c9d498732e88c54c6",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_f7ed4a28e144a93c4df668ff",
+            "french": "PARAMÈTRES DE LA PROCHAINE MANCHE",
+            "translation": "SETTINGS FOR THE NEXT ROUND",
+            "context": "Dictionnaire FR/EN",
+            "status": "translated",
+            "sourceHash": "f7ed4a28e144a93c4df668ffce9595357db40e953ba889fabbfa5d69c93ebc94",
+            "archived": false,
+            "excluded": false
+        },
+        {
             "id": "le_44b19fcb63d88ee6d437ece0",
             "french": "Kit de soin",
             "translation": "Skincare set",
