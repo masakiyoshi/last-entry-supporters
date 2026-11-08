@@ -1,6 +1,7 @@
 # LAST ENTRY - Soutiens
 # | 1 Silver ; | 2 Gold ; | 3 Beta Tester.
 # pseudos: 
+Fender-72 | 1
 kinesy | 1
 Shokomaki | 3
 Neosaku | 3
