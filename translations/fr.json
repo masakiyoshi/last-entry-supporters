@@ -1777,9 +1777,9 @@
             "french": "Value: 50\nPrime: 25",
             "translation": "Value: 50\nPrime: 25",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "66740475d0a05ddcaa5674c3be1650145c020b32b8b828b89a89bea37508640e",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -1813,13 +1813,13 @@
             "excluded": false
         },
         {
-            "id": "le_febf5d91020c69f494320268",
+            "id": "archive_4dc5da0b4b886fa788bca443",
             "french": "Lampe Bleu",
             "translation": "Lampe Bleu",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "febf5d91020c69f494320268567addc9c5cc2c4dbabd2e8d017a131bef5e20f6",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -1957,9 +1957,9 @@
             "french": "Value: 30\nPrime: 15",
             "translation": "Value: 30\nPrime: 15",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "0626a6a87b811746f2ff5e67b8d8e69cae84c86fd623d73fe1bd66cb2369096d",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2037,9 +2037,9 @@
             "french": "Event =>",
             "translation": "Event =>",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "bcd5688ad9485d3b31f7953e52168b861871e108cd6225bc78bbce0a3d6ebec6",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2127,9 +2127,9 @@
             "french": "Value: 12\nPrime: 6",
             "translation": "Value: 12\nPrime: 6",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "b781b18b7034636763075df111b5ad92f4b06be130b88bbf51a9239143900e83",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2417,9 +2417,9 @@
             "french": "Value: 100\nPrime: Crédit+50 | XP+5",
             "translation": "Value: 100\nPrime: Crédit+50 | XP+5",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "cfb6d7ac82ea64df3ad6c65c9957863e42a13adc94190d438eb57434dc0dd891",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2427,9 +2427,9 @@
             "french": "Value: 200\nPrime: Crédit+100 | XP+10",
             "translation": "Value: 200\nPrime: Crédit+100 | XP+10",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "c11e579ad957554f648ab5dbb61d48b946abb3db30d8e24556323bcfaea83260",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2437,9 +2437,9 @@
             "french": "Value: 6\nPrime: Crédit+3 | XP+2",
             "translation": "Value: 6\nPrime: Crédit+3 | XP+2",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "4f60f304dc17f2f07452c81afb2f8f5a4a6df4bbeb79b0ae9e69d909bf37ac24",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2447,9 +2447,9 @@
             "french": "Value: 1000\nPrime: Crédit+500 | XP+20",
             "translation": "Value: 1000\nPrime: Crédit+500 | XP+20",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "972d300a8baa1f060e755be7a63e2ea4adf0d21626a84ef8ebc5e077fb26e889",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2457,9 +2457,9 @@
             "french": "Value: 50\nPrime: Crédit+25 | XP+10",
             "translation": "Value: 50\nPrime: Crédit+25 | XP+10",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "3832324aada76869496c35935268bc9ad3ae9022497b38dae1bc65b43bb28620",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2467,9 +2467,9 @@
             "french": "Value: 300\nPrime: Crédit+150 | XP+5",
             "translation": "Value: 300\nPrime: Crédit+150 | XP+5",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "de35cd8632b5cffe425a88c611fa29bbac7133778ba5ce59b0a2ac534311b287",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -2857,9 +2857,9 @@
             "french": "Value: 30\nPrime: Crédit+5 | XP+5",
             "translation": "Value: 30\nPrime: Crédit+5 | XP+5",
             "context": "Dictionnaire FR/EN",
-            "status": "source",
+            "status": "archived",
             "sourceHash": "7874abfb6696d9601c0fcd381e03137b0e57677cb57c45839ff193f4c3ea8184",
-            "archived": false,
+            "archived": true,
             "excluded": false
         },
         {
@@ -4069,6 +4069,386 @@
             "context": "Dictionnaire FR/EN",
             "status": "source",
             "sourceHash": "f7ed4a28e144a93c4df668ffce9595357db40e953ba889fabbfa5d69c93ebc94",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_2abd0a601461531c908e4fd7",
+            "french": "Rangement malin",
+            "translation": "Rangement malin",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "2abd0a601461531c908e4fd7f0720550852803ca3d596176fee9f00aeac4ce91",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_1ce462cb14c523454937ce24",
+            "french": "Logistique avancee",
+            "translation": "Logistique avancee",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "1ce462cb14c523454937ce2405ac5d01abfc69d0960ba8a111894b9444210459",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_39dc7ad01226e7ccb99e1b16",
+            "french": "Vos Storage Box gagnent 1 emplacement pour toute la manche. Tout le monde peut utiliser cette place. Cumulable avec Logistique avancee : jusqu'a 5 petits objets.",
+            "translation": "Vos Storage Box gagnent 1 emplacement pour toute la manche. Tout le monde peut utiliser cette place. Cumulable avec Logistique avancee : jusqu'a 5 petits objets.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "39dc7ad01226e7ccb99e1b1600e6dc0593b2e14c135674ce229bc95a3ca140b1",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_2115da4c087b864f4f81555b",
+            "french": "Vos Storage Box gagnent 1 emplacement pour toute la manche. Tout le monde peut utiliser cette place. Cumulable avec Rangement malin : jusqu'a 5 petits objets.",
+            "translation": "Vos Storage Box gagnent 1 emplacement pour toute la manche. Tout le monde peut utiliser cette place. Cumulable avec Rangement malin : jusqu'a 5 petits objets.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "2115da4c087b864f4f81555b73d7a1521358e8f4a5987e6cde86b8c0ebf479f3",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_4c1afc4086f341b06d38981d",
+            "french": "Specialiste Breaker",
+            "translation": "Specialiste Breaker",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "4c1afc4086f341b06d38981dfc22a7de1fc59950a6f405dfff95f373cc8492da",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_362b122fe191848b3b597fdf",
+            "french": "Les trois zones vertes du mini-jeu Breaker couvrent presque la moitie du cercle. Le bonus s'applique uniquement lorsque vous utilisez la bombe.",
+            "translation": "Les trois zones vertes du mini-jeu Breaker couvrent presque la moitie du cercle. Le bonus s'applique uniquement lorsque vous utilisez la bombe.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "362b122fe191848b3b597fdf1c117393bc9e072f98d0c18fa64cf0493b90a0f8",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_043362dc87aa900c41a6497d",
+            "french": "Cookie par defaut",
+            "translation": "Cookie par defaut",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "043362dc87aa900c41a6497d373e14f0fda2cf2e21a418da45095268783126d3",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_ba3ed86831f3b89e5dfbbda5",
+            "french": "Circle Rings B",
+            "translation": "Circle Rings B",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "ba3ed86831f3b89e5dfbbda58eb57a3702b817fae10800cd0268db1afbedba42",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_94e2d80734db762e9f83447d",
+            "french": "Storage Box classique",
+            "translation": "Storage Box classique",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "94e2d80734db762e9f83447dd8c548bcc21e0dad58021572cbdb1f36d97ebd5c",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_bfd9a97d0418e1cd3e050676",
+            "french": "Storage Box Lilfy",
+            "translation": "Storage Box Lilfy",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "bfd9a97d0418e1cd3e05067694dff018d3b46c09c96748e848127a6ca0664770",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_c30a6a3bea097fbc85ca3e57",
+            "french": "Storage Box The Unwatched",
+            "translation": "Storage Box The Unwatched",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "c30a6a3bea097fbc85ca3e57976f209eeaf6476c6bfef3b8d6067e4704669a56",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_f8e49001efc00f70825a4d4f",
+            "french": "Le motif de base de votre lampe. Disponible pour tous les joueurs.",
+            "translation": "Le motif de base de votre lampe. Disponible pour tous les joueurs.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "f8e49001efc00f70825a4d4ffd218a6b2ff6c5ac591dcc128bfc47a6fb942505",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_a302c3135dce3c4c5e4325cf",
+            "french": "Remplace le motif du faisceau par des anneaux concentriques. Se combine avec la couleur de votre lampe.",
+            "translation": "Remplace le motif du faisceau par des anneaux concentriques. Se combine avec la couleur de votre lampe.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "a302c3135dce3c4c5e4325cf91d0d329f61676f083664131b81341aa464b1f5c",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_bf806ccf68dde27a8e5968c9",
+            "french": "La caisse d'origine. Les taches sont incluses.",
+            "translation": "La caisse d'origine. Les taches sont incluses.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "bf806ccf68dde27a8e5968c90fb23e808f2d85032103f7c99f48b20d15bfe99b",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_ba9756c60f3da5ee2d5de80c",
+            "french": "Une boite toute mignonne, a l'image de la douceur de Lilfy dans ses moments les plus doux. Ces moments restent a confirmer.",
+            "translation": "Une boite toute mignonne, a l'image de la douceur de Lilfy dans ses moments les plus doux. Ces moments restent a confirmer.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "ba9756c60f3da5ee2d5de80c4958951f7c3f089e861303c3478f76791fdbd5b6",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_d3a1b7e5bf12c062782c231d",
+            "french": "Une caisse qui rappelle The Unwatched. Son bois paraît vivant. Si elle commence à respirer, évitez de lui demander ce qu'elle contient.",
+            "translation": "Une caisse qui rappelle The Unwatched. Son bois paraît vivant. Si elle commence à respirer, évitez de lui demander ce qu'elle contient.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "d3a1b7e5bf12c062782c231dcf4d78cb15cc38b26c838d8e3b8e6200ef68e042",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_febf5d91020c69f494320268",
+            "french": "Selectionne une apparence",
+            "translation": "Selectionne une apparence",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "b7542b94120ea34e5a82b968685318fafa1627b4cbe751291c7f41baa905b350",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_9b977298c5ecc41ad40b7235",
+            "french": "COOKIE",
+            "translation": "COOKIE",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "9b977298c5ecc41ad40b7235d07ed2b1b122dffb14ccd1f0b5abe85a4308c745",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_eb46682b522009c3dc1752bf",
+            "french": "APERÇU",
+            "translation": "APERÇU",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "eb46682b522009c3dc1752bf64a76ac9d78d6a0ce98341bff02ba39507dcdc5b",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_12cb1fd2832aa51037be8bf3",
+            "french": "10000 crédits",
+            "translation": "10000 crédits",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "12cb1fd2832aa51037be8bf3ac1d1646aaa0760759fa1ab96f8a6bd13d93d7ce",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_4839fdb4870c4c10c80b6468",
+            "french": "5000 crédits",
+            "translation": "5000 crédits",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "4839fdb4870c4c10c80b6468f1340cee1383535d038d775c628bb7a7da6936b5",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_e7e9596ac974d39e43e545a6",
+            "french": "/!\\ ALPHA VERSION /!\\",
+            "translation": "/!\\ ALPHA VERSION /!\\",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "e7e9596ac974d39e43e545a601be1b7f6c76337cef6901d72c8661852e31d74e",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_f6d356c5b86dd8ec11b96281",
+            "french": "EQUIPER",
+            "translation": "EQUIPER",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "f6d356c5b86dd8ec11b9628126f3ad352adb7850eedfd6d0970dac67ce22194e",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_e2ed3c69bc28081150c2cb58",
+            "french": "Flashlight",
+            "translation": "Flashlight",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "e2ed3c69bc28081150c2cb58c470f0e0f0cf1684bb0f947d4b9c7e1d71be2859",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_19fd8297752f219f924b4e8d",
+            "french": "Apparence par defaut",
+            "translation": "Apparence par defaut",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "19fd8297752f219f924b4e8d5721f328460caf2302ed1638e031bb37208e23f6",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_bf5cdce13e0a50b2751a0c3c",
+            "french": "Aucune apparence disponible a l'achat pour cet objet.",
+            "translation": "Aucune apparence disponible a l'achat pour cet objet.",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "bf5cdce13e0a50b2751a0c3cc0e5a4c36635fd4b56b473f08b0d9fbbc1906fda",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_0c3551bface76830a586ba80",
+            "french": "COOKIES",
+            "translation": "COOKIES",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "0c3551bface76830a586ba80524c5a4ff604c97aa26788360f1c010ad9e1bc15",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_ae4d06671ebee649806400a6",
+            "french": "COLLECTION — Flashlight",
+            "translation": "COLLECTION — Flashlight",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "ae4d06671ebee649806400a61efb309f75e339393f8280bb30aa37237d4bc7f5",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_1a88ff6776007eea036f2be2",
+            "french": "COULEURS",
+            "translation": "COULEURS",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "1a88ff6776007eea036f2be292a50b088228ca740a2acec6f0e55e2850b43c2c",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_fe47433f4c3d765a946d03ad",
+            "french": "ACHATS — Flashlight",
+            "translation": "ACHATS — Flashlight",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "fe47433f4c3d765a946d03ad276a670dc64002f60433fa63edf303ed8d0c3330",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_f010b2cc844a4e400fe70964",
+            "french": "DESEQUIPER",
+            "translation": "DESEQUIPER",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "f010b2cc844a4e400fe7096422d9719ea88e248ac4a535ab8b2695e043022b74",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_180c06791f36c18cb364ff1c",
+            "french": "Chargement de la collection...",
+            "translation": "Chargement de la collection...",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "180c06791f36c18cb364ff1c5235f2af29f27b711f8d758733f56df9e02f2276",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_f3900b4d8b6b5754a8810a1b",
+            "french": "COULEUR",
+            "translation": "COULEUR",
+            "context": "Dictionnaire FR/EN",
+            "status": "source",
+            "sourceHash": "f3900b4d8b6b5754a8810a1b90294edbcb36a71c248f2a9fe54e46fb2c32f15e",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_121eee816e40694751903180",
+            "french": "Evenement",
+            "translation": "Evenement",
+            "context": "Assets/Script/CosmeticShopManager.cs",
+            "status": "source",
+            "sourceHash": "121eee816e406947519031809e1c14825ea4d7afb91797d8f4bf80bf2f485a48",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_35a580e895e43040b486de2d",
+            "french": "EQUIPE",
+            "translation": "EQUIPE",
+            "context": "Assets/LastEntryCharge/CosmeticCollectionCellFR.cs",
+            "status": "source",
+            "sourceHash": "35a580e895e43040b486de2d4e51565ba8555d9e0eaac8e7880281e28407ea02",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_bbce09c8a0f4c512be4bb49c",
+            "french": "POSSEDE",
+            "translation": "POSSEDE",
+            "context": "Assets/LastEntryCharge/CosmeticCollectionCellFR.cs",
+            "status": "source",
+            "sourceHash": "bbce09c8a0f4c512be4bb49ce228e354615f69bb3978bfb6cbcc270a00a83454",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_c3eb0907a8456cc5d6a8e2c0",
+            "french": "ACHATS",
+            "translation": "ACHATS",
+            "context": "Assets/LastEntryCharge/CosmeticCollectionMenuFR.cs",
+            "status": "source",
+            "sourceHash": "c3eb0907a8456cc5d6a8e2c0e4383d9bd165ecc52c988f1f88fe44bb6aef5a99",
+            "archived": false,
+            "excluded": false
+        },
+        {
+            "id": "le_63326d1d390cb1b52335f2d5",
+            "french": "COLLECTION",
+            "translation": "COLLECTION",
+            "context": "Assets/LastEntryCharge/CosmeticCollectionMenuFR.cs",
+            "status": "source",
+            "sourceHash": "63326d1d390cb1b52335f2d501971a5e236b66180a63735592bd03e20f6f7354",
             "archived": false,
             "excluded": false
         }
